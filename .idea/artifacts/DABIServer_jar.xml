@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DABIServer:jar">
+    <output-path>$PROJECT_DIR$/output/artifacts/DABIServer_jar</output-path>
+    <root id="archive" name="DABIServer.jar">
+      <element id="module-output" name="DABIServer" />
+    </root>
+  </artifact>
+</component>
